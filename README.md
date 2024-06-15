@@ -36,7 +36,7 @@ As a Product Manager, here are the detailed business requirements for a Personal
 ### 5. Monthly Payment Calculation
 
 **Requirement:** The monthly payment for the loan should be calculated using the following formula:
-\[ M = \frac{P \times r \times (1+r)^n}{(1+r)^n - 1} \]
+M =  (P x r x (1+r)^n) / ((1+r)^n - 1)
 
 - **P:** Principal loan amount
 - **r:** Monthly interest rate (annual rate / 12 / 100)
