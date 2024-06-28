@@ -33,22 +33,13 @@ As a Product Manager, here are the detailed business requirements for a Personal
 - **Credit Score 700-749:** 4%
 - **Credit Score 750 and above:** 3%
 
-### 5. Monthly Payment Calculation
-
-**Requirement:** The monthly payment for the loan should be calculated using the following formula:
-\[ M = \frac{P \times r \times (1+r)^n}{(1+r)^n - 1} \]
-
-- **P:** Principal loan amount
-- **r:** Monthly interest rate (annual rate / 12 / 100)
-- **n:** Loan term in months
-
-### 6. Loan Term Options
+### 5. Loan Term Options
 
 **Requirement:** The applicant can choose the loan term.
 
 - **Available Terms:** 12 months, 24 months, 36 months, 48 months, 60 months
 
-### 7. Eligibility Determination
+### 6. Eligibility Determination
 
 **Requirement:** The applicant is eligible for the loan if all the above conditions are met.
 
